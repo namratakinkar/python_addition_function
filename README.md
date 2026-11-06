@@ -1,4 +1,4 @@
-# Python Coding Practice 🐍
+# Python Coding Practice 💻
 
 Welcome to my Python Coding Practice Repository!
 
