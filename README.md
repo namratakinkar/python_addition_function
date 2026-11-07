@@ -28,6 +28,26 @@ I am learning Python step by step and uploading my practice work to GitHub.
 - Invalid Variable Names with Reasons.
 - Practical Examples.
 
+## Python Operators
+
+Operators are special symbols or keywords used to perform specific operations between two operands (variables or values).
+
+### Types of Operators in Python
+
+Python has 7 main types of operators:
+
+1. Arithmetic Operators – Used to perform mathematical calculations.
+2. Comparison Operators – Used to compare two values.
+3. Assignment Operators – Used to assign values to variables.
+4. Logical Operators – Used to combine two or more conditions.
+5. Identity Operators – Used to check whether two variables refer to the same object.
+6. Membership Operators – Used to check whether a value is present in a sequence.
+7. Bitwise Operators – Used to perform operations on binary bits.
+
+### Python File
+
+- `operators.py` – Contains definitions, types and practical examples of Python Operators.
+
 ## Programming Language
 - Python
 
